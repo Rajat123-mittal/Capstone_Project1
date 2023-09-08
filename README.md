@@ -10,7 +10,8 @@ Presented By - Rajat Mittal
 
 Welcome to the Introduction to Computer Programming project, designed to assess your practical application and comprehension of fundamental programming concepts using Python. This evaluation encompasses a wide range of topics, including data types, indexing, slicing, operators, built-in functions, statements, conditionals, loops, object-oriented programming, and exception handling. Additionally, you'll have the opportunity to showcase your ability to create custom functions and tackle advanced looping concepts.
 
-![image](https://github.com/Rajat123-mittal/Capstone_Project1/assets/57293387/f726ca3b-6b55-4bec-8597-61918fb61227)
+![image](https://github.com/Rajat123-mittal/Capstone_Project1/assets/57293387/c24ef63a-b492-4a2f-b051-2ebd5a9166dc)
+
 
 ## **Problem Statement**
 
